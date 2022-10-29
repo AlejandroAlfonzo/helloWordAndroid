@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">HelloWord</string>
     <string name="helloWord">Hola Mundo Android Seteado</string>
+    <string name="prueba">Commit</string>
 </resources>
