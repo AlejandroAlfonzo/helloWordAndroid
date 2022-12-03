@@ -2,4 +2,9 @@
     <string name="app_name">HelloWord</string>
     <string name="helloWord">Hola Mundo Android Seteado</string>
     <string name="prueba">Commit</string>
+    <string name="practica1">Practica 1</string>
+    <string name="btnPurple">Morado</string>
+    <string name="btnBlack">Negro</string>
+    <string name="btnRed">Rojo</string>
+    <string name="btnOrange">Naranja</string>
 </resources>

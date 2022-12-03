@@ -13,4 +13,13 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="title">
+        <item name="android:textSize">@dimen/tvTitleSize</item>
+        <item name="android:textColor">@color/red</item>
+        <item name="android:layout_marginStart">@dimen/tvTitleMargin</item>
+        <item name="android:layout_marginEnd">@dimen/tvTitleMargin</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textAlignment">center</item>
+    </style>
 </resources>
